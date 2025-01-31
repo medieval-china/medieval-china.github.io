@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.apiCompatibilityParams=void 0;var _is_node=require("../shared/is_node.js"),compatibilityParams=Object.create(null);_is_node.isNodeJS&&(compatibilityParams.disableFontFace=!0);var apiCompatibilityParams=Object.freeze(compatibilityParams);exports.apiCompatibilityParams=apiCompatibilityParams;
