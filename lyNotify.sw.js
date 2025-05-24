@@ -1,0 +1,1 @@
+"use strict";self.addEventListener("notificationclick",function(i){i.notification.close(),i.waitUntil(clients.openWindow(i.notification.data.url))});
