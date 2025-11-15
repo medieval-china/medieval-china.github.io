@@ -1,0 +1,1 @@
+"use strict";var _is_node=require("./is_node.js");
