@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),Object.defineProperty(exports,"WorkerMessageHandler",{enumerable:!0,get:function(){return _worker.WorkerMessageHandler}});var _worker=require("./core/worker.js"),pdfjsVersion="2.8.335",pdfjsBuild="228adbf67";
